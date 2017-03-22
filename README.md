@@ -1,2 +1,2 @@
 # HellowRepository
-sample repository for understanding GIT HUB
+sample repository for understanding
